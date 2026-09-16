@@ -1,2 +1,3 @@
 # ArialOS
 Reattempt at PPT Stuff....
+Oh yeah, and this stuff is covered by Creative Commons Attribution-NonCommercial 4.0 International license included in [LICENSE.txt](LICENSE.txt).
