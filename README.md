@@ -10,5 +10,10 @@ To play and experience this simulator as intended, you will need:
 * **Display:** Recommended to view in **Slide Show Mode** (`F5`) on a desktop/laptop for best interactive performance.
 *  If using the `.ppsx` release version, double-clicking the file will start Slide Show mode automatically.
 
+# Release Channels
+
+* **`v#.#` (Stable):** Official, tested releases. Recommended for most users. Minimal risk of navigation softlocks or broken transitions.
+* **`b#.#` (Beta):** Monthly developmental builds. Includes experimental features and layout tests, but may contain softlocks or unescapable screens ("hard bricks").
+
 # Extra stuff
 Note: This project was originally posted on an old, inaccessible GitHub account (@tanghonglin807-max) and has been moved here by the original author.
