@@ -6,7 +6,7 @@ Oh yeah, and this stuff is covered by Creative Commons Attribution-NonCommercial
 To play and experience this simulator as intended, you will need:
 
 * **Presentation Software:** Microsoft PowerPoint 2021 or Microsoft 365.
-  * *Note:* Older versions (PowerPoint 2016/2019 or older) or web versions may not render full transition effects, Morph transitions, or slide timing properly. This project was also tested on mobile version, and is confirmed unplayable.
+  * *Note:* Older versions (PowerPoint 2016/2019 or older) or web versions may not render full transition effects, Morph transitions, or slide timing properly. This project was also tested on mobile version, and is confirmed unplayable on that version.
 * **Display:** Recommended to view in **Slide Show Mode** (`F5`) on a desktop/laptop for best interactive performance.
 * * If using the `.ppsx` release version, double-clicking the file will start Slide Show mode automatically.
 
