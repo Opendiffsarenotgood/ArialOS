@@ -1,0 +1,4 @@
+Whoops! Looks like you downloaded from the wrong section! here's how to get the latest release:
+1. Go to releases
+2. choose a download (read all text before deciding)
+3. Done.
