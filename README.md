@@ -1,5 +1,5 @@
 # ArialOS
-LOL
+Sorry if I take very long to make significant changes, I usually get distracted by other stuff.
 ## The Legal Stuff
 Oh yeah, and this stuff is covered by Creative Commons Attribution-NonCommercial 4.0 International license included in [LICENSE.txt](LICENSE.txt).
 ## System Requirements
